@@ -2,13 +2,13 @@
 Twitter cline
 
 
-#.env
+# .env
 
 .env file is required in base api directory with the follwing environment variables
 
-DB_HOST=
-DB_DATABASE=
-DB_USERNAME=
-DB_PASSWORD=
+DB_HOST=<br/>
+DB_DATABASE=<br/>
+DB_USERNAME=<br/>
+DB_PASSWORD=<br/>
 
-CLIENT_URL = 
+CLIENT_URL =<br/>
